@@ -1,2 +1,3 @@
-let scope = "33"
-console.log(typeof scope);
+ let score = "33"
+
+ 

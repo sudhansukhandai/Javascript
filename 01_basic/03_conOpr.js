@@ -20,6 +20,10 @@ console.log(staticInScore) */
 // "33abc" => NaN
 // true => 1, false => 0
 
-let isloggedIn = 1
+//let isloggedIn = 1
+let isloggedIn = ""
 let boolenIsLoggedin = Boolean(isloggedIn)
 console.log(boolenIsLoggedin)
+// 1 => true; 0 => false;
+// "" => false;
+// "hitesh" => false;

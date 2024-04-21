@@ -3,6 +3,6 @@ const repoCount = 50
 
 console.log(`My name is ${name} and my repocount is ${repoCount}`);
 
-const gameName = new String ("sudhansuKH")
+const gameName = new String("sudhansuKH")
 
 console.log(gameName[0]);
